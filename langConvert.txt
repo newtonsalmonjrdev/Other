@@ -1,0 +1,301 @@
+[speaker: Ricardo] como
+<break time="1s"/>
+[speaker:Matthew] as
+<break time="2s"/>[speaker: Ricardo] I
+<break time="1s"/>
+[speaker:Matthew] I
+<break time="2s"/>[speaker: Ricardo] seu
+<break time="1s"/>
+[speaker:Matthew] his
+<break time="2s"/>[speaker: Ricardo] que
+<break time="1s"/>
+[speaker:Matthew] that
+<break time="2s"/>[speaker: Ricardo] ele
+<break time="1s"/>
+[speaker:Matthew] he
+<break time="2s"/>[speaker: Ricardo] foi
+<break time="1s"/>
+[speaker:Matthew] was
+<break time="2s"/>[speaker: Ricardo] para
+<break time="1s"/>
+[speaker:Matthew] for
+<break time="2s"/>[speaker: Ricardo] em
+<break time="1s"/>
+[speaker:Matthew] on
+<break time="2s"/>[speaker: Ricardo] são
+<break time="1s"/>
+[speaker:Matthew] are
+<break time="2s"/>[speaker: Ricardo] com
+<break time="1s"/>
+[speaker:Matthew] with
+<break time="2s"/>[speaker: Ricardo] eles
+<break time="1s"/>
+[speaker:Matthew] they
+<break time="2s"/>[speaker: Ricardo] ser
+<break time="1s"/>
+[speaker:Matthew] be
+<break time="2s"/>[speaker: Ricardo] em
+<break time="1s"/>
+[speaker:Matthew] at
+<break time="2s"/>[speaker: Ricardo] uma
+<break time="1s"/>
+[speaker:Matthew] one
+<break time="2s"/>[speaker: Ricardo] tem
+<break time="1s"/>
+[speaker:Matthew] have
+<break time="2s"/>[speaker: Ricardo] este
+<break time="1s"/>
+[speaker:Matthew] this
+<break time="2s"/>[speaker: Ricardo] a partir de
+<break time="1s"/>
+[speaker:Matthew] from
+<break time="2s"/>[speaker: Ricardo] por
+<break time="1s"/>
+[speaker:Matthew] by
+<break time="2s"/>[speaker: Ricardo] quente
+<break time="1s"/>
+[speaker:Matthew] hot
+<break time="2s"/>[speaker: Ricardo] palavra
+<break time="1s"/>
+[speaker:Matthew] word
+<break time="2s"/>[speaker: Ricardo] mas
+<break time="1s"/>
+[speaker:Matthew] but
+<break time="2s"/>[speaker: Ricardo] o que
+<break time="1s"/>
+[speaker:Matthew] what
+<break time="2s"/>[speaker: Ricardo] alguns
+<break time="1s"/>
+[speaker:Matthew] some
+<break time="2s"/>[speaker: Ricardo] é
+<break time="1s"/>
+[speaker:Matthew] is
+<break time="2s"/>[speaker: Ricardo] ele
+<break time="1s"/>
+[speaker:Matthew] it
+<break time="2s"/>[speaker: Ricardo] você
+<break time="1s"/>
+[speaker:Matthew] you
+<break time="2s"/>[speaker: Ricardo] ou
+<break time="1s"/>
+[speaker:Matthew] or
+<break time="2s"/>[speaker: Ricardo] teve
+<break time="1s"/>
+[speaker:Matthew] had
+<break time="2s"/>[speaker: Ricardo] o
+<break time="1s"/>
+[speaker:Matthew] the
+<break time="2s"/>[speaker: Ricardo] de
+<break time="1s"/>
+[speaker:Matthew] of
+<break time="2s"/>[speaker: Ricardo] a
+<break time="1s"/>
+[speaker:Matthew] to
+<break time="2s"/>[speaker: Ricardo] e
+<break time="1s"/>
+[speaker:Matthew] and
+<break time="2s"/>[speaker: Ricardo] uma
+<break time="1s"/>
+[speaker:Matthew] a
+<break time="2s"/>[speaker: Ricardo] em
+<break time="1s"/>
+[speaker:Matthew] in
+<break time="2s"/>[speaker: Ricardo] nós
+<break time="1s"/>
+[speaker:Matthew] we
+<break time="2s"/>[speaker: Ricardo] lata
+<break time="1s"/>
+[speaker:Matthew] can
+<break time="2s"/>[speaker: Ricardo] fora
+<break time="1s"/>
+[speaker:Matthew] out
+<break time="2s"/>[speaker: Ricardo] outro
+<break time="1s"/>
+[speaker:Matthew] other
+<break time="2s"/>[speaker: Ricardo] foram
+<break time="1s"/>
+[speaker:Matthew] were
+<break time="2s"/>[speaker: Ricardo] que
+<break time="1s"/>
+[speaker:Matthew] which
+<break time="2s"/>[speaker: Ricardo] fazer
+<break time="1s"/>
+[speaker:Matthew] do
+<break time="2s"/>[speaker: Ricardo] seu
+<break time="1s"/>
+[speaker:Matthew] their
+<break time="2s"/>[speaker: Ricardo] tempo
+<break time="1s"/>
+[speaker:Matthew] time
+<break time="2s"/>[speaker: Ricardo] se
+<break time="1s"/>
+[speaker:Matthew] if
+<break time="2s"/>[speaker: Ricardo] vontade
+<break time="1s"/>
+[speaker:Matthew] will
+<break time="2s"/>[speaker: Ricardo] como
+<break time="1s"/>
+[speaker:Matthew] how
+<break time="2s"/>[speaker: Ricardo] disse
+<break time="1s"/>
+[speaker:Matthew] said
+<break time="2s"/>[speaker: Ricardo] uma
+<break time="1s"/>
+[speaker:Matthew] an
+<break time="2s"/>[speaker: Ricardo] cada
+<break time="1s"/>
+[speaker:Matthew] each
+<break time="2s"/>[speaker: Ricardo] dizer
+<break time="1s"/>
+[speaker:Matthew] tell
+<break time="2s"/>[speaker: Ricardo] faz
+<break time="1s"/>
+[speaker:Matthew] does
+<break time="2s"/>[speaker: Ricardo] conjunto
+<break time="1s"/>
+[speaker:Matthew] set
+<break time="2s"/>[speaker: Ricardo] três
+<break time="1s"/>
+[speaker:Matthew] three
+<break time="2s"/>[speaker: Ricardo] quer
+<break time="1s"/>
+[speaker:Matthew] want
+<break time="2s"/>[speaker: Ricardo] ar
+<break time="1s"/>
+[speaker:Matthew] air
+<break time="2s"/>[speaker: Ricardo] bem
+<break time="1s"/>
+[speaker:Matthew] well
+<break time="2s"/>[speaker: Ricardo] também
+<break time="1s"/>
+[speaker:Matthew] also
+<break time="2s"/>[speaker: Ricardo] jogar
+<break time="1s"/>
+[speaker:Matthew] play
+<break time="2s"/>[speaker: Ricardo] pequeno
+<break time="1s"/>
+[speaker:Matthew] small
+<break time="2s"/>[speaker: Ricardo] fim
+<break time="1s"/>
+[speaker:Matthew] end
+<break time="2s"/>[speaker: Ricardo] colocar
+<break time="1s"/>
+[speaker:Matthew] put
+<break time="2s"/>[speaker: Ricardo] casa
+<break time="1s"/>
+[speaker:Matthew] home
+<break time="2s"/>[speaker: Ricardo] ler
+<break time="1s"/>
+[speaker:Matthew] read
+<break time="2s"/>[speaker: Ricardo] mão
+<break time="1s"/>
+[speaker:Matthew] hand
+<break time="2s"/>[speaker: Ricardo] port
+<break time="1s"/>
+[speaker:Matthew] port
+<break time="2s"/>[speaker: Ricardo] grande
+<break time="1s"/>
+[speaker:Matthew] large
+<break time="2s"/>[speaker: Ricardo] soletrar
+<break time="1s"/>
+[speaker:Matthew] spell
+<break time="2s"/>[speaker: Ricardo] adicionar
+<break time="1s"/>
+[speaker:Matthew] add
+<break time="2s"/>[speaker: Ricardo] mesmo
+<break time="1s"/>
+[speaker:Matthew] even
+<break time="2s"/>[speaker: Ricardo] terra
+<break time="1s"/>
+[speaker:Matthew] land
+<break time="2s"/>[speaker: Ricardo] aqui
+<break time="1s"/>
+[speaker:Matthew] here
+<break time="2s"/>[speaker: Ricardo] necessário
+<break time="1s"/>
+[speaker:Matthew] must
+<break time="2s"/>[speaker: Ricardo] grande
+<break time="1s"/>
+[speaker:Matthew] big
+<break time="2s"/>[speaker: Ricardo] alto
+<break time="1s"/>
+[speaker:Matthew] high
+<break time="2s"/>[speaker: Ricardo] tais
+<break time="1s"/>
+[speaker:Matthew] such
+<break time="2s"/>[speaker: Ricardo] siga
+<break time="1s"/>
+[speaker:Matthew] follow
+<break time="2s"/>[speaker: Ricardo] ato
+<break time="1s"/>
+[speaker:Matthew] act
+<break time="2s"/>[speaker: Ricardo] por que
+<break time="1s"/>
+[speaker:Matthew] why
+<break time="2s"/>[speaker: Ricardo] perguntar
+<break time="1s"/>
+[speaker:Matthew] ask
+<break time="2s"/>[speaker: Ricardo] homens
+<break time="1s"/>
+[speaker:Matthew] men
+<break time="2s"/>[speaker: Ricardo] mudança
+<break time="1s"/>
+[speaker:Matthew] change
+<break time="2s"/>[speaker: Ricardo] fui
+<break time="1s"/>
+[speaker:Matthew] went
+<break time="2s"/>[speaker: Ricardo] luz
+<break time="1s"/>
+[speaker:Matthew] light
+<break time="2s"/>[speaker: Ricardo] tipo
+<break time="1s"/>
+[speaker:Matthew] kind
+<break time="2s"/>[speaker: Ricardo] off
+<break time="1s"/>
+[speaker:Matthew] off
+<break time="2s"/>[speaker: Ricardo] precisa
+<break time="1s"/>
+[speaker:Matthew] need
+<break time="2s"/>[speaker: Ricardo] casa
+<break time="1s"/>
+[speaker:Matthew] house
+<break time="2s"/>[speaker: Ricardo] imagem
+<break time="1s"/>
+[speaker:Matthew] picture
+<break time="2s"/>[speaker: Ricardo] tentar
+<break time="1s"/>
+[speaker:Matthew] try
+<break time="2s"/>[speaker: Ricardo] nós
+<break time="1s"/>
+[speaker:Matthew] us
+<break time="2s"/>[speaker: Ricardo] novamente
+<break time="1s"/>
+[speaker:Matthew] again
+<break time="2s"/>[speaker: Ricardo] animais
+<break time="1s"/>
+[speaker:Matthew] animal
+<break time="2s"/>[speaker: Ricardo] ponto
+<break time="1s"/>
+[speaker:Matthew] point
+<break time="2s"/>[speaker: Ricardo] mãe
+<break time="1s"/>
+[speaker:Matthew] mother
+<break time="2s"/>[speaker: Ricardo] mundo
+<break time="1s"/>
+[speaker:Matthew] world
+<break time="2s"/>[speaker: Ricardo] perto
+<break time="1s"/>
+[speaker:Matthew] near
+<break time="2s"/>[speaker: Ricardo] construir
+<break time="1s"/>
+[speaker:Matthew] build
+<break time="2s"/>[speaker: Ricardo] auto
+<break time="1s"/>
+[speaker:Matthew] self
+<break time="2s"/>[speaker: Ricardo] terra
+<break time="1s"/>
+[speaker:Matthew] earth
+<break time="2s"/>[speaker: Ricardo] pai
+<break time="1s"/>
+[speaker:Matthew] father
+<break time="2s"/>
